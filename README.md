@@ -8,3 +8,5 @@ University: *Politecnico di Milano* (Milano, Italy) https://www.polimi.it/ <br>
 Supervisor: *Prof. Simone Vantini* <br>
 Co-supervisors: *Eng. Anna Calissano*, *Archt. Paola Sturla* <br>
 Discussed: *25 July 2018 at Politecnico di Milano* <br>
+
+The document will be available online from October 2018 at: https://www.politesi.polimi.it/
